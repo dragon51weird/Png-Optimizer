@@ -218,4 +218,4 @@ Png Optimizer is offered as a complete free version with all features and update
 Ready to optimize your images? Download **Png Optimizer** now and enjoy cleaner, faster PNG files!
 
 ---
-**Last updated:** 2026-09-19 16:22:56 UTC
+**Last updated:** 2026-09-19 19:14:24 UTC
